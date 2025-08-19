@@ -1,0 +1,1 @@
+This project uses a K-Nearest Neighbors (KNN) algorithm to provide recipe recommendations based on the nutrients and ingredients entered by the user. It also features a Flask web application that allows users to input their preferred nutrients and ingredients to get customized recipe suggestions.
